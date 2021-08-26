@@ -3,13 +3,13 @@
 
 ## Compile code
 ```bash 
-    stack build
+stack build
 ```
 ## Execute code
 ```bash 
-    stack exec haskell-test-exe
+stack exec haskell-test-exe
 ```
 ## Compile and execute
 ``` bash
-    stack build; clear; stack exec haskell-test-exe;
+stack build; clear; stack exec haskell-test-exe;
 ```
